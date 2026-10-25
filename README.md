@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# DSA Basic
-=======
+
 # dsa-basic
 IN THIS I WILL SHARE THE BASIC OF DATA STRUCTURES AND ALGORITHMS ! 
->>>>>>> 9f2a446e809d4042ad717644b12ec5da7b230e4d
